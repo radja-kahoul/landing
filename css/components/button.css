@@ -1,0 +1,12 @@
+.button_black {
+	background-color:black;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-weight: 400;
+	font-family: 'Sansita', sans-serif;
+}
+
+.button_black:hover{
+	background-color: #77e3fa;
+}
